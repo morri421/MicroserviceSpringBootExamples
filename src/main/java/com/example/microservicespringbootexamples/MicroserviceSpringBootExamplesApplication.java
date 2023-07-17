@@ -10,4 +10,8 @@ public class MicroserviceSpringBootExamplesApplication {
         SpringApplication.run(MicroserviceSpringBootExamplesApplication.class, args);
     }
 
+    //Make sure you hook up Redis and Kafka and a database
+    //Automated testing
+
+
 }
